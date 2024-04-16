@@ -1,2 +1,2 @@
-# Reposit-rio-JavaScript
+# Repositorio-JavaScript
 Repositório destinado ao estudo de JavaScript
